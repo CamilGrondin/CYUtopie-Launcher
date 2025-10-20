@@ -9,12 +9,12 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://185.98.136.43",
+    "url": "http://185.98.136.43/CYUtopia",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://pbs.twimg.com/profile_images/1327324611688665089/cGmnX8tA_400x400.jpg"
+        "icon": "node build.js --icon=https://cdn.discordapp.com/icons/1388660739174301736/58489f4ac26a19c93ea21bd383b27bcf.png?size=4096"
     },
     "license": "CCANC",
     "nodemonConfig": {
